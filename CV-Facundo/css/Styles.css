@@ -44,6 +44,7 @@ nav a:hover{
 .area{
     border-bottom: 2px solid lightblue;
     width: 80%;
+    margin-left: 20px;
 }
 .area ul li {
     margin: 10px;
@@ -56,6 +57,7 @@ nav a:hover{
 fieldset{
     width: 30%;
     font-family: cursive;
+    margin-bottom: 20px;
 }
 
 input{
@@ -76,10 +78,12 @@ footer{
 .areaImagen{
     border-bottom: 2px solid lightblue;
     text-align: center;
+    margin: 20px;
 }
 
 .areaImagen img{
     width: 100px;
+    
 }
 .areaImagen h2{
    text-align: left;
