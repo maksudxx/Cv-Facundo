@@ -1,0 +1,87 @@
+
+body{
+    background-color: ghostwhite;
+}
+.titulo{
+    color: royalblue;
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+}
+
+img{
+    width: 40px;
+    padding: 10px;
+}
+
+#fotoCv{
+    width: 200px;
+    float: right;
+}
+
+nav{
+    padding: 20px 5px;
+    border-style: groove;
+    border-radius: 20px;
+    background-color: rgb(219, 241, 248);
+    text-align: center;
+}
+
+nav a{
+    color: royalblue;
+    padding: 10px;
+    text-decoration: none;
+    pointer-events: stroke;
+    font-family: cursive;
+}
+
+nav a:hover{
+    font-size: 18px;
+    color: black;
+}
+
+.area{
+    border-bottom: 2px solid lightblue;
+    width: 80%;
+}
+.area ul li {
+    margin: 10px;
+    font-family: cursive;
+}
+
+
+    
+
+fieldset{
+    width: 30%;
+    font-family: cursive;
+}
+
+input{
+    font-family: cursive;
+}
+textarea{
+    font-family: cursive;
+}
+
+footer{
+    padding-bottom: 50px;
+}
+
+.fichacontacto{
+    margin-bottom: 30px;
+}
+
+.areaImagen{
+    border-bottom: 2px solid lightblue;
+    text-align: center;
+}
+
+.areaImagen img{
+    width: 100px;
+}
+.areaImagen h2{
+   text-align: left;
+}
+
